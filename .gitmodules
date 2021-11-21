@@ -13,3 +13,6 @@
 [submodule "modules/env"]
 	path = modules/env
 	url = https://github.com/Minecraft-COMiC/-env
+[submodule "modules/os-gui"]
+	path = modules/os-gui
+	url = https://github.com/Minecraft-COMiC/-os-gui

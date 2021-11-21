@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/modules/engine/include" />
+      <file path="$PROJECT_DIR$/modules/engine/src" />
+      <file path="$PROJECT_DIR$/modules/env/include" />
+      <file path="$PROJECT_DIR$/modules/env/src" />
+      <file path="$PROJECT_DIR$/modules/logger/include" />
+      <file path="$PROJECT_DIR$/modules/logger/src" />
+      <file path="$PROJECT_DIR$/modules/os/include" />
+      <file path="$PROJECT_DIR$/modules/os/windows/include" />
+      <file path="$PROJECT_DIR$/modules/os/windows/src" />
+      <file path="$PROJECT_DIR$/modules/types/fast" />
+      <file path="$PROJECT_DIR$/modules/types/include" />
+      <file path="$PROJECT_DIR$/modules/types/limited" />
+      <file path="$PROJECT_DIR$/src" />
+    </sourceRoots>
+  </component>
 </project>
