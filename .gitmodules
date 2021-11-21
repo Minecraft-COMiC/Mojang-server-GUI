@@ -1,0 +1,15 @@
+[submodule "modules/types"]
+	path = modules/types
+	url = https://github.com/Minecraft-COMiC/-types
+[submodule "modules/os"]
+	path = modules/os
+	url = https://github.com/Minecraft-COMiC/-os
+[submodule "modules/logger"]
+	path = modules/logger
+	url = https://github.com/Minecraft-COMiC/-logger
+[submodule "modules/engine"]
+	path = modules/engine
+	url = https://github.com/Minecraft-COMiC/-engine
+[submodule "modules/env"]
+	path = modules/env
+	url = https://github.com/Minecraft-COMiC/-env
