@@ -9,6 +9,10 @@
       <file path="$PROJECT_DIR$/modules/env/src" />
       <file path="$PROJECT_DIR$/modules/logger/include" />
       <file path="$PROJECT_DIR$/modules/logger/src" />
+      <file path="$PROJECT_DIR$/modules/os-gui/include" />
+      <file path="$PROJECT_DIR$/modules/os-gui/no-include" />
+      <file path="$PROJECT_DIR$/modules/os-gui/windows/include" />
+      <file path="$PROJECT_DIR$/modules/os-gui/windows/src" />
       <file path="$PROJECT_DIR$/modules/os/include" />
       <file path="$PROJECT_DIR$/modules/os/windows/include" />
       <file path="$PROJECT_DIR$/modules/os/windows/src" />

@@ -3,6 +3,8 @@ project(COMiC-Mojang-server-GUI C)
 
 set(CMAKE_C_STANDARD 99)
 
+set(COMiC_OS_GUI TRUE)
+
 add_subdirectory(modules/types)
 add_subdirectory(modules/os)
 add_subdirectory(modules/os-gui)
